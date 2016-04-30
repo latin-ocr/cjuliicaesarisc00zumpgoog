@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cjuliicaesarisc00zumpgoog_0036.png"; bbox 0 0 2296 3796; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 299 1467 931 1558">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 299 1467 931 1558">
+     <span class='ocr_line' id='line_1_1' title="bbox 299 1467 931 1558; baseline -0.002 -15"><span class='ocrx_word' id='word_1_1' title='bbox 299 1467 341 1543; x_wconf 80' lang='lat' dir='ltr'><strong>C.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 369 1469 519 1543; x_wconf 83' lang='lat' dir='ltr'>JULIl</span> <span class='ocrx_word' id='word_1_3' title='bbox 551 1470 810 1544; x_wconf 74' lang='lat' dir='ltr'><strong>CAESARIS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 929 1553 931 1558; x_wconf 86' lang='lat'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 395 1753 708 1838">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 395 1753 708 1838">
+     <span class='ocr_line' id='line_1_2' title="bbox 395 1753 708 1838; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 395 1753 708 1838; x_wconf 58' lang='lat' dir='ltr'>coMMflN‘rARu</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 216 2067 898 2160">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 216 2067 898 2160">
+     <span class='ocr_line' id='line_1_3' title="bbox 216 2067 898 2160; baseline -0.001 0"><span class='ocrx_word' id='word_1_6' title='bbox 216 2070 297 2160; x_wconf 82' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 338 2068 550 2159; x_wconf 83' lang='lat' dir='ltr'>BELLO</span> <span class='ocrx_word' id='word_1_8' title='bbox 592 2067 898 2159; x_wconf 80' lang='lat' dir='ltr'><strong>GALLIOO.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1152 3796">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1152 3796">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1152 3796; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1152 3796; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
